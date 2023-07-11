@@ -26,6 +26,54 @@ main{
 
 /* Header section css */
 
+/* navbar css start now */
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #db6e85;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.nab-link{
+    display: flex;
+    margin-right: 10px;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+    color: #FFF;
+}
+.r-color{
+    color: #3eda91;
+    font-size: 45px;
+    font-weight: 800;
+    cursor: pointer;
+    }
+
+.nav-title{
+    color: #FFF;
+    font-size: 55px;
+    font-weight: 800;
+    margin-left: 175px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.anchor-link{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+    cursor: pointer;
+}
 /* our feature section css */
 .our-feature-head{
     text-align: center;
@@ -104,7 +152,7 @@ font-weight: 800;
 margin-bottom: 20px;
 }
 .let-make-header{
-    margin: 100px 50px 100px 200px;
+    margin: 100px 50px 110px 200px;
 }
 .let-make-description{
 color: rgba(39, 39, 39, 0.60);
