@@ -110,3 +110,72 @@ line-height: 30px;
     width: 250px;
     height: 300px;
 }
+
+/* submit section start */
+#submit-section{
+   margin: 50px 150px 50px 150px;
+}
+.submit-head{
+    background-image: url('../media/Rectangle\ 9.png');
+    width: 100%;
+    height: 449px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.submit-title{
+color: #272727;
+font-size: 40px;
+font-weight: 800;
+padding-top: 100px;
+}
+
+.form-btn{
+width: 500px;
+padding: 20px 30px 20px 20px;
+border: none;
+}
+.submit-description{
+color: #272727;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+/* footer section css */
+footer{
+    background-color: #111010;
+    height: 449px;
+    text-align: center;
+    color: #FFF;
+    
+}
+.footer-content{
+padding-top: 150px;
+
+}
+.footer-title span{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+}
+.footer-title{
+color: #FFF;
+font-size: 48px;
+font-weight: 800;
+}
+.footer-description{
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+margin-top: 15px;
+margin-bottom: 15px;
+line-height: 30px;
+}
+.footer-copy-right{
+color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+}
