@@ -1,0 +1,63 @@
+/* common css start now */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary{
+background-color: #E55473;
+border: none;
+padding: 15px 35px;
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
+margin-top: 20px;
+}
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+
+
+
+/* Header section css */
+header{
+    max-height: 880px;
+}
+
+
+
+
+
+.lets-make-it{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgba(229, 84, 115, 0.10);
+}
+
+.let-make-img{
+    margin: 0px 50px 0px 0px;
+
+}
+.let-make-title{
+color: #272727;
+font-size: 70px;
+font-weight: 800;
+margin-bottom: 20px;
+}
+.let-make-header{
+    padding: 100px 50px 100px 200px;
+}
+.let-make-description{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+}
+
