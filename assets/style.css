@@ -74,6 +74,14 @@ nav a{
     text-transform: uppercase;
     cursor: pointer;
 }
+
+.anchor-link:hover{
+    transition: 2s all;
+    border: 5px solid #FFF;
+    color: #3eda91;
+    padding: 10px;
+}
+
 /* our feature section css */
 .our-feature-head{
     text-align: center;
