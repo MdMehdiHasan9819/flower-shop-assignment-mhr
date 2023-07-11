@@ -81,3 +81,32 @@ font-size: 18px;
 font-weight: 400;
 margin-bottom: 20px;
 }
+
+/* instagram section css */
+.instagram-head{
+    text-align: center;
+    margin-top: 100px;
+}
+.instagram-title{
+color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+}
+.instagram-description{
+color: #272727;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+
+.instgram-img-section{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 150px 100px 150px;
+}
+.ins-image{
+    width: 250px;
+    height: 300px;
+}
